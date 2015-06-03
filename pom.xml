@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.jahia.modules</groupId>
     <artifactId>jahia-modules</artifactId>
-    <version>7.0.0.0</version>
+    <version>7.1.0.0</version>
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>tmdb-provider</artifactId>
@@ -14,8 +14,8 @@
   <name>tmdb-provider</name>
   <description>This is the custom module (tmdb-provider) for running on a Jahia xCM server.</description>
   <scm>
-    <connection>scm:git:git@github.com:tdraier/tmdb-provider.git</connection>
-    <developerConnection>scm:git:git@github.com:tdraier/tmdb-provider.git</developerConnection>
+    <connection>scm:git:git@github.com:dcarrie/tmdb-provider.git</connection>
+    <developerConnection>scm:git:git@github.com:dcarrie/tmdb-provider.git</developerConnection>
   </scm>
   <dependencies>
     <dependency>
